@@ -1,0 +1,2 @@
+# RoundedView
+IBDesignable rounded view
